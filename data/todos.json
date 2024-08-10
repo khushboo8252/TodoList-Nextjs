@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "learn redux"
+    },
+    {
+      "id": "3",
+      "text": "go to school"
+    },
+    {
+      "id": "4",
+      "text": "go to the heal"
+    },
+    {
+      "id": "c5cfec7b-0530-4b7d-8084-8bc2bade3f0e",
+      "text": "learn hindi-1"
+    },
+    {
+      "id": "bba6b697-4823-4d61-89b7-d08f1f4f6a1b",
+      "text": "Learn html"
+    },
+    {
+      "id": "43b5f065-fbf5-4388-beb4-93c08df65c1f",
+      "text": "Learn how to make food"
+    }
+  ]
+}
